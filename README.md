@@ -17,23 +17,6 @@ Please ⭐ *watch* / *star* this repository if you would like to be notified whe
 
 ---
 
-## 📄 Citation
-
-The BibTeX entry will be added once the final publication details (journal, volume, pages, DOI) are available.
-
-```bibtex
-@article{hu2025l2gdsd,
-  title   = {Beyond Spectral Fidelity: Local-to-Global Discriminative Self-Distillation
-             for Hyperspectral Image Classification},
-  author  = {Hu, Lei and Zhou, Fujing and Zhao, Jinling and Huang, Linsheng},
-  journal = {IEEE Transactions on Cybernetics},
-  year    = {2025},
-  note    = {Under review}
-}
-```
-
----
-
 ## 📬 Contact
 
 For questions about the paper, please contact **Lei Hu** — hulei.rs@ahu.edu.cn
